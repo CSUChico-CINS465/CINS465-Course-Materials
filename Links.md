@@ -8,6 +8,12 @@
 <br><br>
 <a href="https://bitbucket.org">BitBucket</a> - Version Control Host for GIT or MERCURIAL (Education Accounts are Free)
 <br><br>
+<a href="https://www.gitkraken.com/">GitKraken</a> - An awesome multi platform GIT GUI; however, if you don't know how to use git in the command line you should learn that before using a GUI of any kind or you will run into problems.
+<br><br>
+<a href="https://atom.io/">Atom</a> - An awesome multi platform text editor that will likely be one of the editors I will be using for most of the development during class.
+<br><br>
+<a href="https://www.jetbrains.com/student/">PyCharm</a> - PyCharm is a powerful Python & Django IDE from jetbrains. As a student you can get access to the professional version for free via the link provided here. I'll likely be using this or Atom for development during class (both have pros/cons).
+<br><br>
 <a href="http://ubuntu.com">Ubuntu</a> - Distro of Linux I'll personally be using.
 <br><br>
 <a href="http://devdocs.io/">Dev Docs</a> - Searchable documentation of many popular languages. Includes C documentation, which is what we'll be using primarily in this course. But great resource for all of you long term.
