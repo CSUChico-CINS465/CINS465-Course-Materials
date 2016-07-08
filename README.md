@@ -1,4 +1,4 @@
-# CINS465-Course-Materials
+# CINS465
 Repo used to hold course materials for CINS465
 
 ## About
