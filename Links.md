@@ -1,5 +1,9 @@
 <a href="">Google Drive Shared Folder</a> - Shared folder of lecture slides, and other materials.
 <br><br>
+<a href="https://www.djangoproject.com/">Django</a> - Django is the python based web framework we will be using for this class.
+<br><br>
+<a href="https://www.python.org/">Python</a> - Django is a python based web framework so learning python will be required. We will be using Python 3.5 for this class.
+<br><br>
 <a href="https://github.com/">GitHub</a> - Version Control & Open Source Code Repository (Education Accounts are Free)
 <br><br>
 <a href="https://bitbucket.org">BitBucket</a> - Version Control Host for GIT or MERCURIAL (Education Accounts are Free)
