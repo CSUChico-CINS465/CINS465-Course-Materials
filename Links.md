@@ -18,6 +18,8 @@
 <br><br>
 <a href="http://devdocs.io/">Dev Docs</a> - Searchable documentation of many popular languages. Includes C documentation, which is what we'll be using primarily in this course. But great resource for all of you long term.
 <br><br>
+<a href="https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087#.h9ipxkg5z">General Academic Email Etiquette</a> - I'm fine with you calling me by my first name, but if you are going to use a salutation, make sure it's a correct one.
+<br><br>
 <a href="https://moodle.csuchico.edu">Moodle</a> - We will be using the Moodle Learning Management System (LMS) this semester. The enrollment key was given out in lecture, email me if you missed the first lecture and didn't get the enrollment key for Moodle.
 <br><br>
 <a href="http://piazza.com/">Piazza</a> - The discussion board site we will be using for this semester. I'll be posting announcements here. This is also where you should ask your generic, non-code specific questions.
