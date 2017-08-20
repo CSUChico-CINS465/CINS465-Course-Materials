@@ -1,4 +1,4 @@
-<a href="https://drive.google.com/drive/folders/0BxCHPj-PjPvFdGVlWFQ5TWVDUm8?usp=sharing">Google Drive Shared Folder</a> - Shared folder of lecture slides, and other materials.
+<a href="https://drive.google.com/drive/folders/0BxCHPj-PjPvFTHk0OGczZHRzYVE?usp=sharing">Google Drive Shared Folder</a> - Shared folder of lecture slides, and other materials.
 <br><br>
 <a href="https://www.djangoproject.com/">Django</a> - Django is the python based web framework we will be using for this class.
 <br><br>
