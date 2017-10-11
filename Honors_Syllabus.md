@@ -10,6 +10,16 @@ Grade of C or better in CINS 110 and CINS 370. (or approved equivalent, check wi
 
 Students who take this class without completing the prerequisite class will be given a failing grade.
 
+## Description
+
+A hands-on project course that examines languages, tools, protocols, and techniques for developing interactive and dynamic web applications. Topics include the model-view-controller pattern, server side and client side scripting, using a server side database, web applications security, and dynamic page styling, design, and layout. The course includes several web projects using a web programming framework. 
+
+For the honors variation will include an expansion on the base knowledge from the regular CINS 465 in the next semester exploring advanced web programming technologies. 
+
+## Hours
+
+3 hours discussion
+
 
 ## Course Accounts
 
