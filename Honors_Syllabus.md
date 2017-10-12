@@ -6,7 +6,7 @@ Bryan Dixon
 
 ## Prerequisite
 
-Grade of C or better in CINS 110 and CINS 370. (or approved equivalent, check with your advisor)
+Grade of C or better in CINS 370. (or approved equivalent, check with your advisor)
 
 Students who take this class without completing the prerequisite class will be given a failing grade.
 
@@ -57,13 +57,19 @@ I will routinely post the grades to Moodle. If you are not happy with a grade, t
 
 + Exam - 10% of course grade (if this doesn't happen it will become part of your project grade)
 
-+ Programming Projects - 40% of course grade
++ Programming Projects - 30% of course grade
 
 + Final Project - 50% of course grade
 
 + Lecture Attendance can improve/lower your grade (see above)
 
 + IRC participation - this will potentially replace 1/2 of the exam credit
+
++ CINS 499H Independent Study Proposal - 10% of course grade
+  + Find and read two articles/papers about interesting web-related application
+  + Collect several references related to project proposal
+  + Formal proposal for CINS499H Independent Study Project extension of CINS465
+    + Must include references, timeline, requirements, etc. 
 
 ### Grading Meetings
 
