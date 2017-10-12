@@ -6,7 +6,7 @@ Bryan Dixon
 
 ## Prerequisite
 
-Grade of C or better in CINS 110 and CINS 370. (or approved equivalent, check with your advisor)
+Grade of C or better in CINS 370. (or approved equivalent, check with your advisor)
 
 Students who take this class without completing the prerequisite class will be given a failing grade.
 
