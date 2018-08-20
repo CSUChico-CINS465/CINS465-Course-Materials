@@ -6,6 +6,8 @@
 <br><br>
 <a href="https://github.com/">GitHub</a> - Version Control & Open Source Code Repository (Education Accounts are Free)
 <br><br>
+<a href="https://gitlab.com/">GitLab</a> - Version Control with baked in CI/CD (Unlimited private/public repos for all)
+<br><br>
 <a href="https://bitbucket.org">BitBucket</a> - Version Control Host for GIT or MERCURIAL (Education Accounts are Free)
 <br><br>
 <a href="https://www.gitkraken.com/">GitKraken</a> - An awesome multi platform GIT GUI; however, if you don't know how to use git in the command line you should learn that before using a GUI of any kind or you will run into problems.
