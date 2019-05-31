@@ -3,7 +3,7 @@
 The course catalogue describes this course as follows:
 
 ### Prerequisites:
-Prerequisites: CINS 110, CINS 370 both with a grade of C or higher.
+Prerequisites: CINS 370 with a grade of C or higher.
 
 ### Description
 
