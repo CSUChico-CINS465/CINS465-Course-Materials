@@ -1,4 +1,4 @@
-* [Google Drive Shared Folder](https://drive.google.com/drive/folders/1hVEXdBMY1QMQ9LZxDiq7SKMak7bqeKlT?usp=sharing) - Shared folder of lecture slides, and other materials.
+* [Google Drive Shared Folder](https://drive.google.com/drive/folders/166YnSrMstPuGk9dYwp0_svZKapAOanFt?usp=sharing) - Shared folder of lecture slides, and other materials.
 * [Django](https://www.djangoproject.com/) - Django is the python based web framework we will be using for this class.
 * [Python](https://www.python.org/) - Django is a python based web framework so learning python will be required. We will be using Python 3.6+ for this class.
 * [GitHub](https://github.com/) - Version Control & Open Source Code Repository (Education Accounts are Free)
