@@ -1,6 +1,8 @@
 * [Google Drive Shared Folder](https://drive.google.com/drive/folders/166YnSrMstPuGk9dYwp0_svZKapAOanFt?usp=sharing) - Shared folder of lecture slides, and other materials.
 * [Django](https://www.djangoproject.com/) - Django is the python based web framework we will be using for this class.
 * [Python](https://www.python.org/) - Django is a python based web framework so learning python will be required. We will be using Python 3.6+ for this class.
+* [Git Basics Video](https://www.youtube.com/watch?v=0JgyAJMvZlY&feature=youtu.be) - Basic tutorial on using git for version control I recorded Spring 2020 
+* [Learn Git Branching](https://learngitbranching.js.org/) - Excellent web tutorial working through a variety of use cases for git including using branches. 
 * [GitHub](https://github.com/) - Version Control & Open Source Code Repository (Education Accounts are Free)
 * [GitLab](https://gitlab.com/) - Version Control with baked in CI/CD (Unlimited private/public repos for all)
 * [BitBucket](https://bitbucket.org) - Version Control Host for GIT or MERCURIAL (Education Accounts are Free)
