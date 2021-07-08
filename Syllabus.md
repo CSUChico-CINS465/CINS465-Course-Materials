@@ -49,11 +49,15 @@ I will routinely post the grades to Moodle. If you are not happy with a grade, t
 
 + Programming Projects - 40% of course grade
 
-+ Final Project - 50% of course grade
++ Final Project - 50% of course grade  
 
 + Lecture Attendance can improve/lower your grade (see above)
 
 + IRC participation - this will potentially replace 1/2 of the exam credit
+
+### Project Grading Caveat
+
+If you fail to do your final project presentation, you can not earn more than a C in the class regardless of the score on everything else. 
 
 ### Grading Meetings
 
