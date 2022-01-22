@@ -7,7 +7,8 @@
 * [GitLab](https://gitlab.com/) - Version Control with baked in CI/CD (Unlimited private/public repos for all)
 * [BitBucket](https://bitbucket.org) - Version Control Host for GIT or MERCURIAL (Education Accounts are Free)
 * [GitKraken](https://www.gitkraken.com/) - An awesome multi platform GIT GUI; however, if you don't know how to use git in the command line you should learn that before using a GUI of any kind or you will run into problems.
-* [Atom](https://atom.io/) - An awesome multi platform text editor that will likely be one of the editors I will be using for most of the development during class.
+* [Atom](https://atom.io/) - An awesome free multi platform text editor 
+* [VScode](https://code.visualstudio.com/) - The editor I'll use in class since it is free and has the most intuitive remote code editing plugin of any of the free IDE
 * [PyCharm](https://www.jetbrains.com/student/) - PyCharm is a powerful Python & Django IDE from jetbrains. As a student you can get access to the professional version for free via the link provided here. I'll likely be using this or Atom for development during class (both have pros/cons).
 * [Ubuntu](http://ubuntu.com) - Distro of Linux I'll personally be using.
 * [Dev Docs](http://devdocs.io/) - Searchable documentation of many popular languages. Includes C documentation, which is what we'll be using primarily in this course. But great resource for all of you long term.
