@@ -1,4 +1,4 @@
-* [Google Drive Shared Folder](https://drive.google.com/drive/folders/1wF8mF44lqoAXR-C94b-EQWENqYPZwLp6?usp=sharing) - Shared folder of lecture slides, and other materials.
+* [Google Drive Shared Folder](https://drive.google.com/drive/folders/1jjUYnCg00_mwQAcKYQkvz8_dBdiZvE5U?usp=sharing) - Shared folder of lecture slides, and other materials.
 * [Django](https://www.djangoproject.com/) - Django is the python based web framework we will be using for this class.
 * [Python](https://www.python.org/) - Django is a python based web framework so learning python will be required. We will be using Python 3.6+ for this class.
 * [Git Basics Video](https://www.youtube.com/watch?v=0JgyAJMvZlY&feature=youtu.be) - Basic tutorial on using git for version control I recorded Spring 2020 
